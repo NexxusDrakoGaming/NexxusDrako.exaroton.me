@@ -17,8 +17,8 @@ A **community-driven PaperMC Minecraft server** featuring land management, RPG s
 2. **Click "Multiplayer"** on the main menu
 3. **Click "Add Server"**
 4. **Enter these details:**
-   - Server Name: `[Server Name]` (or whatever you want to call it)
-   - Server Address: `[YOUR_SERVER_IP]:25565`
+   - Server Name: `NexxusDrako`
+   - Server Address: `NexxusDrako.exaroton.me:44527`
 5. **Click "Done"** and then **"Join Server"**
 
 🎉 **You're in!** Welcome to the community!
@@ -175,7 +175,7 @@ A **community-driven PaperMC Minecraft server** featuring land management, RPG s
 
 ## 💬 Join Our Discord!
 
-**Discord Link:** [YOUR_DISCORD_INVITE_LINK]
+**Discord Link:** https://discord.gg/ek64RstbSX
 
 Our Discord server is where we:
 - Announce **server updates and events**
